@@ -26,4 +26,5 @@ sudo rkdeveloptool rd
 ```
 
 > Apabila tidak terdeteksi atau terkena maskroom saat `rkdeveloptool ld`, jumper pin yang ada digambar lalu colok power
+
 ![image](https://github.com/Manssizz/flash-king3399/assets/23637327/55c85842-12b5-4dda-a64e-dcb679e0d9ac)
