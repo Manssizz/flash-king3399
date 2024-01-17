@@ -7,6 +7,8 @@ Image bisa ambil dari repository ophub (https://github.com/ophub)
 - download fw
 
 ### Steps
+![image](https://github.com/Manssizz/flash-king3399/assets/23637327/b5280f6a-53da-43bd-a67a-aca27a1098d7)
+
 - Colok usb type C ke device
 - Tekan tombol reset sebelum colok power
 - jalankan perintah dibawah
