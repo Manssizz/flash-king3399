@@ -25,6 +25,6 @@ sudo rkdeveloptool wl 0x0 <image.img>
 sudo rkdeveloptool rd
 ```
 
-> Apabila tidak terdeteksi atau terkena maskroom saat `rkdeveloptool ld`, jumper pin yang ada digambar lalu colok power
+> Apabila tidak terdeteksi atau terkena maskroom saat `rkdeveloptool ld`, jumper pin **resistor** dan **grounding** yang ada digambar lalu colok power
 
-![image](https://github.com/Manssizz/flash-king3399/assets/23637327/55c85842-12b5-4dda-a64e-dcb679e0d9ac)
+![maskrom-pin](https://github.com/Manssizz/flash-king3399/assets/23637327/71923adb-c540-4024-996d-bcc99272c2dd)
