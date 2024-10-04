@@ -3,7 +3,7 @@ Image bisa ambil dari repository ophub (https://github.com/ophub)
 
 ### Bahan
 - install rkdeveloptool (https://wiki.radxa.com/Rock3/install/rockchip-flash-tools)
-- download loader (https://github.com/Manssizz/flash-king3399/blob/main/rk3399_loader_v1.27.126.bin)
+- download loader [here](https://github.com/Manssizz/flash-king3399/raw/refs/heads/main/rk3399_loader_v1.27.126.bin)
 - download fw
 
 ### Steps
